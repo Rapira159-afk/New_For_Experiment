@@ -1,11 +1,12 @@
+import { ASSS } from './Ap/APP0000';
 import './App.css';
-let App = () => {
+
+let App = (props) => {
   return (
-        <Rew Name ='GFRTGRFGR'/>)};
-                   
-let Rew = (props) => {
-  return (
-<div>{props.Name}</div>
+   <div><ASSS Name ={props.Name} ERRRR ={props.ERRRR}/></div>
 )};
+        
+                   
+
          
 export default App;
