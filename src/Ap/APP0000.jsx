@@ -1,8 +1,8 @@
-
+import {A0} from "./0/0";
 
 let ASSS = (props) => {
   return (
-   <div>f{props.Name}{props.ERRRR}1</div>
+   <div><A0 Name ={props.Name} ERRRR ={props.ERRRR}/></div>
 )};
                     
 
